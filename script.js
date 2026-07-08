@@ -1,1 +1,0 @@
-const a=document.getElementById('audio');const c=document.getElementById('cover');a.addEventListener('play',()=>c.classList.add('playing'));['pause','ended'].forEach(e=>a.addEventListener(e,()=>c.classList.remove('playing')));
