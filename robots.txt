@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaku3work.github.io/live-streaming-light-and-shadow/sitemap.xml
